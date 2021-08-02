@@ -1,10 +1,17 @@
 # awesome-blog
-[Randy‘sBlog]: https://lutaonan.com	"test"
-[Ryan4Yin's Space]: https://ryan4yin.space	"test"
-
-
-
-[Randy‘s Blog](https://lutaonan.com Randy's Blog)
+[Randy‘s Blog](https://lutaonan.com)
 
 [Ryan4Yin's Space](https://ryan4yin.space)
+
+[Timyang](https://timyang.net)
+
+[YUUTAW 的自言语](https://blog.yuuta.moe/posts/)
+
+[Waterstrong](https://blog.waterstrong.me)
+
+[myxinhua.xyz](http://myxinhua.xyz/#indexCard)
+
+[苏洋的博客](https://soulteary.com)
+
+[吴叶磊](https://aleiwu.com/post/)
 
